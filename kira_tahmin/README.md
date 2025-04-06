@@ -1,8 +1,25 @@
 # Kira Tahmini Uygulaması
-Gerçek Verilerle Makine Öğrenmesi Modelleri Oluşturarak Kira Tahmini Yapılması
 
 ## Proje Açıklaması
-Bu proje, gerçek verilerle makine öğrenmesi modelleri oluşturarak kira tahmini yapılmasını amaçlamaktadır. Proje kapsamında, veri seti üzerinde veri ön işleme işlemleri gerçekleştirilmiş, veri seti üzerinde istatistiksel analizler yapılmış ve makine öğrenmesi modelleri uygulanmıştır.
+
+Bu proje, gerçek emlak verileri kullanılarak makine öğrenmesi modelleriyle kira tahmini yapılmasını amaçlamaktadır. Proje süresince:
+
+- Veri seti üzerinde veri ön işleme adımları gerçekleştirilmiş,
+- İstatistiksel analizler yapılmış,
+- Farklı makine öğrenmesi modelleri uygulanarak sonuçlar karşılaştırılmıştır.
+
+Veriler, **Instant Data Scraper** adlı tarayıcı uzantısı kullanılarak **hepsiemlak** platformundaki tüm ilanlardan otomatik olarak çekilmiştir.
+
+## Kullanılan Şehir Verileri
+Proje kapsamında aşağıdaki ege bölgesi şehirlerinin verileri analiz edilmiştir:
+- İzmir  
+- Manisa  
+- Aydın  
+- Denizli  
+- Muğla  
+- Afyonkarahisar  
+- Kütahya  
+- Uşak  
 
 ## Kullanılan Kütüphaneler
 - numpy
@@ -14,3 +31,7 @@ Bu proje, gerçek verilerle makine öğrenmesi modelleri oluşturarak kira tahmi
 - [Veri Seti Hakkında İstatistiksel Analizler](istatiksel_inceleme.ipynb)
 - [Doğrusal Regresyon Modeli](regresyon.ipynb)
 - [Rassal Orman Modeli](sınıflandırma.ipynb)
+
+## Yararlanılan Kaynak
+ [Gerçek Verilerle Makine Öğrenmesi: Kira Tahmini Uygulaması (YouTube Oynatma Listesi)](https://www.youtube.com/watch?v=oLr4wok9M4g&list=PL30NBs02RsiVtALCWtMyRT45caVKXhpdU)
+
