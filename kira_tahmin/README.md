@@ -11,6 +11,6 @@ Bu proje, gerçek verilerle makine öğrenmesi modelleri oluşturarak kira tahmi
 
 ## Notebook Dosyaları
 - [Veri Setinin Yüklenmesi ve Ayıklanması](veri_ayıkla.ipynb)
-- [Veri Seti Hakkında İstatistiksel Analizler](istatistiksel_inceleme.ipynb)
+- [Veri Seti Hakkında İstatistiksel Analizler](istatiksel_inceleme.ipynb)
 - [Doğrusal Regresyon Modeli](regresyon.ipynb)
 - [Rassal Orman Modeli](sınıflandırma.ipynb)
