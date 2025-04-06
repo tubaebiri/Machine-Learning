@@ -33,5 +33,5 @@ Proje kapsamında aşağıdaki ege bölgesi şehirlerinin verileri analiz edilmi
 - [Rassal Orman Modeli](sınıflandırma.ipynb)
 
 ## Yararlanılan Kaynak
- [Gerçek Verilerle Makine Öğrenmesi: Kira Tahmini Uygulaması (YouTube Oynatma Listesi)](https://www.youtube.com/watch?v=oLr4wok9M4g&list=PL30NBs02RsiVtALCWtMyRT45caVKXhpdU)
+ [Gerçek Verilerle Makine Öğrenmesi: Kira Tahmini Uygulaması](https://www.youtube.com/watch?v=oLr4wok9M4g&list=PL30NBs02RsiVtALCWtMyRT45caVKXhpdU)
 
